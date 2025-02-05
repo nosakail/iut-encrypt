@@ -1,6 +1,6 @@
 # @nosakail/iut-encrypt
 
-A flexible password encryption module with support for multiple hashing methods.
+Yassine Saddiki password encryption module with support for multiple hashing methods.
 
 ## Installation
 
