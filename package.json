@@ -1,0 +1,22 @@
+{
+  "name": "@nosakail/iut-encrypt",
+  "version": "1.0.0",
+  "description": "Yassine Saddiki password encryption module for film library Bacholor's in CS project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "encryption",
+    "hash",
+    "sha1",
+    "password"
+  ],
+  "author": "Yassine Saddiki",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
