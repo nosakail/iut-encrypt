@@ -1,6 +1,6 @@
 {
   "name": "@nosakail/iut-encrypt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Yassine Saddiki password encryption module for film library Bacholor's in CS project",
   "main": "index.js",
   "scripts": {

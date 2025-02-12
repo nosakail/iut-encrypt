@@ -49,3 +49,5 @@ class Encrypt {
         return hashedInput === hashedPassword;
     }
 }
+
+module.exports = Encrypt;
